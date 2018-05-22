@@ -1,0 +1,1 @@
+java -jar ./target/kafka-hadoop-loader.jar -c off -g myGroup -r namenode1.tuboshi.co -t _vencano_2018-05-21  -z zk1.test.tuboshi.co:2181,zk2.test.tuboshi.co:2181,zk3.test.tuboshi.co:2181 /user/hongwei

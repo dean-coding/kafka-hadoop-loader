@@ -1,0 +1,14 @@
+io/amient/kafka/hadoop/HadoopJob.class
+io/amient/kafka/hadoop/io/KafkaInputSplit.class
+io/amient/kafka/hadoop/io/MultiOutputFormat$LineRecordWriter.class
+io/amient/kafka/hadoop/KafkaZkUtils$1.class
+io/amient/kafka/hadoop/io/MsgMetadataWritable.class
+io/amient/kafka/hadoop/HadoopJobMapper.class
+io/amient/kafka/hadoop/api/TimestampExtractor.class
+io/amient/kafka/hadoop/io/KafkaInputFormat.class
+io/amient/kafka/hadoop/io/MultiOutputFormat.class
+io/amient/kafka/hadoop/io/MultiOutputFormat$1.class
+io/amient/kafka/hadoop/KafkaZkUtils$StringSerializer.class
+io/amient/kafka/hadoop/io/KafkaInputRecordReader.class
+io/amient/kafka/hadoop/KafkaZkUtils.class
+io/amient/kafka/hadoop/CheckpointManager.class
